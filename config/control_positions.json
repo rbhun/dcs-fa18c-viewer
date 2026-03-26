@@ -1,0 +1,1614 @@
+{
+  "KY58_FILL_SELECT": {
+    "x": 311,
+    "y": 86
+  },
+  "KY58_MODE_SELECT": {
+    "x": 100,
+    "y": 86
+  },
+  "KY58_POWER_SELECT": {
+    "x": 312,
+    "y": 196
+  },
+  "KY58_VOLUME": {
+    "x": 104,
+    "y": 202
+  },
+  "UFC_0": {
+    "x": 168,
+    "y": 399
+  },
+  "UFC_1": {
+    "x": 118,
+    "y": 249
+  },
+  "UFC_2": {
+    "x": 168,
+    "y": 249
+  },
+  "UFC_3": {
+    "x": 216,
+    "y": 248
+  },
+  "UFC_4": {
+    "x": 118,
+    "y": 297
+  },
+  "UFC_5": {
+    "x": 167,
+    "y": 296
+  },
+  "UFC_6": {
+    "x": 219,
+    "y": 295
+  },
+  "UFC_7": {
+    "x": 120,
+    "y": 349
+  },
+  "UFC_8": {
+    "x": 167,
+    "y": 349
+  },
+  "UFC_9": {
+    "x": 215,
+    "y": 349
+  },
+  "UFC_ADF": {
+    "x": 51,
+    "y": 255
+  },
+  "UFC_BRT": {
+    "x": 494,
+    "y": 191
+  },
+  "UFC_CLR": {
+    "x": 120,
+    "y": 401
+  },
+  "UFC_COMM1_DISPLAY": {
+    "x": 26,
+    "y": 381,
+    "w": 42,
+    "h": 44
+  },
+  "UFC_COMM1_VOL": {
+    "x": 47,
+    "y": 326
+  },
+  "UFC_COMM2_DISPLAY": {
+    "x": 472,
+    "y": 382,
+    "w": 41,
+    "h": 41
+  },
+  "UFC_COMM2_VOL": {
+    "x": 492,
+    "y": 323
+  },
+  "UFC_EMCON": {
+    "x": 494,
+    "y": 251
+  },
+  "UFC_ENT": {
+    "x": 219,
+    "y": 398
+  },
+  "UFC_AP": {
+    "x": 118,
+    "y": 496
+  },
+  "UFC_BCN": {
+    "x": 376,
+    "y": 492
+  },
+  "UFC_DL": {
+    "x": 322,
+    "y": 493
+  },
+  "UFC_IFF": {
+    "x": 165,
+    "y": 490
+  },
+  "UFC_ILS": {
+    "x": 270,
+    "y": 492
+  },
+  "UFC_IP": {
+    "x": 45,
+    "y": 194
+  },
+  "UFC_ONOFF": {
+    "x": 424,
+    "y": 492
+  },
+  "UFC_OPTION_DISPLAY_1": {
+    "x": 327,
+    "y": 167,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_OPTION_DISPLAY_2": {
+    "x": 330,
+    "y": 222,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_OPTION_DISPLAY_3": {
+    "x": 329,
+    "y": 277,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_OPTION_DISPLAY_4": {
+    "x": 330,
+    "y": 329,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_OPTION_DISPLAY_5": {
+    "x": 323,
+    "y": 390,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_OS1": {
+    "x": 293,
+    "y": 179
+  },
+  "UFC_OS2": {
+    "x": 291,
+    "y": 234
+  },
+  "UFC_OS3": {
+    "x": 290,
+    "y": 293
+  },
+  "UFC_OS4": {
+    "x": 291,
+    "y": 345
+  },
+  "UFC_OS5": {
+    "x": 292,
+    "y": 404
+  },
+  "UFC_TCN": {
+    "x": 225,
+    "y": 491
+  },
+  "UFC_COMM1_PULL": {
+    "x": 55,
+    "y": 529
+  },
+  "UFC_COMM2_PULL": {
+    "x": 486,
+    "y": 525
+  },
+  "UFC_SCRATCHPAD_NUMBER_DISPLAY": {
+    "x": 87,
+    "y": 168,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_SCRATCHPAD_STRING_1_DISPLAY": {
+    "x": 114,
+    "y": 166,
+    "w": 120,
+    "h": 24
+  },
+  "UFC_SCRATCHPAD_STRING_2_DISPLAY": {
+    "x": 132,
+    "y": 167,
+    "w": 120,
+    "h": 24
+  },
+  "COMM1_FREQ": {
+    "x": 55,
+    "y": 520
+  },
+  "COMM2_FREQ": {
+    "x": 486,
+    "y": 519
+  },
+  "AOA_INDEXER_HIGH": {
+    "x": 43,
+    "y": 583
+  },
+  "AOA_INDEXER_LOW": {
+    "x": 43,
+    "y": 654
+  },
+  "AOA_INDEXER_NORMAL": {
+    "x": 44,
+    "y": 618
+  },
+  "LS_LOCK": {
+    "x": 609,
+    "y": 96
+  },
+  "LS_SHOOT": {
+    "x": 602,
+    "y": 66
+  },
+  "LS_SHOOT_STROBE": {
+    "x": 603,
+    "y": 130
+  },
+  "HUD_ALT_SW": {
+    "x": 260,
+    "y": 706
+  },
+  "HUD_AOA_INDEXER": {
+    "x": 170,
+    "y": 700
+  },
+  "HUD_ATT_SW": {
+    "x": 349,
+    "y": 703
+  },
+  "HUD_BALANCE": {
+    "x": 482,
+    "y": 630
+  },
+  "HUD_BLACK_LVL": {
+    "x": 311,
+    "y": 628
+  },
+  "HUD_SYM_BRT": {
+    "x": 138,
+    "y": 632
+  },
+  "HUD_SYM_BRT_SELECT": {
+    "x": 228,
+    "y": 630
+  },
+  "HUD_SYM_REJ_SW": {
+    "x": 56,
+    "y": 630
+  },
+  "HUD_VIDEO_CONTROL_SW": {
+    "x": 400,
+    "y": 629
+  },
+  "EMERGENCY_PARKING_BRAKE_PULL": {
+    "x": 454,
+    "y": 728
+  },
+  "EMERGENCY_PARKING_BRAKE_ROTATE": {
+    "x": 457,
+    "y": 688
+  },
+  "EMERGENCY_GEAR_ROTATE": {
+    "x": 340,
+    "y": 259
+  },
+  "GEAR_DOWNLOCK_OVERRIDE_BTN": {
+    "x": 284,
+    "y": 356
+  },
+  "GEAR_LEVER": {
+    "x": 366,
+    "y": 376
+  },
+  "GEAR_SILENCE_BTN": {
+    "x": 258,
+    "y": 238
+  },
+  "LANDING_GEAR_HANDLE_LT": {
+    "x": 368,
+    "y": 344
+  },
+  "COMM1_ANT_SELECT_SW": {
+    "x": 163,
+    "y": 681
+  },
+  "IFF_ANT_SELECT_SW": {
+    "x": 163,
+    "y": 577
+  },
+  "EXT_CNT_TANK_SW": {
+    "x": 496,
+    "y": 90
+  },
+  "EXT_WNG_TANK_SW": {
+    "x": 405,
+    "y": 88
+  },
+  "FUEL_DUMP_SW": {
+    "x": 574,
+    "y": 125
+  },
+  "PROBE_SW": {
+    "x": 329,
+    "y": 130
+  },
+  "FCS_RESET_BTN": {
+    "x": 580,
+    "y": 282
+  },
+  "GAIN_SWITCH": {
+    "x": 471,
+    "y": 293
+  },
+  "GAIN_SWITCH_COVER": {
+    "x": 472,
+    "y": 248
+  },
+  "RUD_TRIM": {
+    "x": 337,
+    "y": 286
+  },
+  "TO_TRIM_BTN": {
+    "x": 337,
+    "y": 295
+  },
+  "APU_CONTROL_SW": {
+    "x": 121,
+    "y": 154
+  },
+  "APU_READY_LT": {
+    "x": 189,
+    "y": 154
+  },
+  "ENGINE_CRANK_SW": {
+    "x": 155,
+    "y": 307
+  },
+  "COM_AUX": {
+    "x": 575,
+    "y": 435
+  },
+  "COM_COMM_G_XMT_SW": {
+    "x": 334,
+    "y": 742
+  },
+  "COM_COMM_RELAY_SW": {
+    "x": 329,
+    "y": 824
+  },
+  "COM_CRYPTO_SW": {
+    "x": 580,
+    "y": 826
+  },
+  "COM_ICS": {
+    "x": 320,
+    "y": 436
+  },
+  "COM_IFF_MASTER_SW": {
+    "x": 580,
+    "y": 653
+  },
+  "COM_IFF_MODE4_SW": {
+    "x": 580,
+    "y": 739
+  },
+  "COM_ILS_CHANNEL_SW": {
+    "x": 463,
+    "y": 817
+  },
+  "COM_ILS_UFC_MAN_SW": {
+    "x": 459,
+    "y": 656
+  },
+  "COM_MIDS_A": {
+    "x": 489,
+    "y": 433
+  },
+  "COM_MIDS_B": {
+    "x": 492,
+    "y": 552
+  },
+  "COM_RWR": {
+    "x": 406,
+    "y": 552
+  },
+  "COM_TACAN": {
+    "x": 573,
+    "y": 554
+  },
+  "COM_VOX": {
+    "x": 323,
+    "y": 551
+  },
+  "COM_WPN": {
+    "x": 405,
+    "y": 436
+  },
+  "HYD_ISOLATE_OVERRIDE_SW": {
+    "x": 162,
+    "y": 1052
+  },
+  "MC_SW": {
+    "x": 158,
+    "y": 1193
+  },
+  "GEN_TIE_COVER": {
+    "x": 71,
+    "y": 520
+  },
+  "GEN_TIE_SW": {
+    "x": 67,
+    "y": 573
+  },
+  "EXT_PWR_SW": {
+    "x": 299,
+    "y": 374
+  },
+  "GND_PWR_1_SW": {
+    "x": 310,
+    "y": 150
+  },
+  "GND_PWR_2_SW": {
+    "x": 233,
+    "y": 204
+  },
+  "GND_PWR_3_SW": {
+    "x": 309,
+    "y": 261
+  },
+  "GND_PWR_4_SW": {
+    "x": 231,
+    "y": 315
+  },
+  "FORMATION_DIMMER": {
+    "x": 297,
+    "y": 484
+  },
+  "INT_WNG_TANK_SW": {
+    "x": 255,
+    "y": 733
+  },
+  "POSITION_DIMMER": {
+    "x": 219,
+    "y": 607
+  },
+  "STROBE_SW": {
+    "x": 301,
+    "y": 651
+  },
+  "FIRE_TEST_SW": {
+    "x": 114,
+    "y": 160
+  },
+  "THROTTLE_FRICTION": {
+    "x": 61,
+    "y": 594
+  },
+  "DEFOG_HANDLE": {
+    "x": 471,
+    "y": 500
+  },
+  "WSHIELD_ANTI_ICE_SW": {
+    "x": 489,
+    "y": 798
+  },
+  "BATTERY_SW": {
+    "x": 202,
+    "y": 239
+  },
+  "L_GEN_SW": {
+    "x": 90,
+    "y": 237
+  },
+  "R_GEN_SW": {
+    "x": 313,
+    "y": 244
+  },
+  "VOLT_E": {
+    "x": 104,
+    "y": 77,
+    "w": 67,
+    "h": 71
+  },
+  "VOLT_U": {
+    "x": 26,
+    "y": 74,
+    "w": 58,
+    "h": 79
+  },
+  "SUIT_TEMP": {
+    "x": 203,
+    "y": 377
+  },
+  "PITOT_HEAT_SW": {
+    "x": 83,
+    "y": 486
+  },
+  "ENG_ANTIICE_SW": {
+    "x": 174,
+    "y": 487
+  },
+  "ECS_MODE_SW": {
+    "x": 79,
+    "y": 366
+  },
+  "CABIN_TEMP": {
+    "x": 204,
+    "y": 357
+  },
+  "CABIN_PRESS_SW": {
+    "x": 315,
+    "y": 365
+  },
+  "BLEED_AIR_PULL": {
+    "x": 299,
+    "y": 492
+  },
+  "BLEED_AIR_KNOB": {
+    "x": 293,
+    "y": 479
+  },
+  "FLIR_SW": {
+    "x": 90,
+    "y": 854
+  },
+  "INS_SW": {
+    "x": 308,
+    "y": 956
+  },
+  "LST_NFLR_SW": {
+    "x": 306,
+    "y": 853
+  },
+  "LTD_R_ARM": {
+    "x": 215,
+    "y": 863
+  },
+  "LTD_R_SW": {
+    "x": 214,
+    "y": 876
+  },
+  "RADAR_SW": {
+    "x": 106,
+    "y": 959
+  },
+  "RADAR_SW_PULL": {
+    "x": 108,
+    "y": 1000
+  },
+  "CHART_DIMMER": {
+    "x": 253,
+    "y": 744
+  },
+  "CONSOLES_DIMMER": {
+    "x": 100,
+    "y": 616
+  },
+  "FLOOD_DIMMER": {
+    "x": 309,
+    "y": 612
+  },
+  "INST_PNL_DIMMER": {
+    "x": 201,
+    "y": 613
+  },
+  "LIGHTS_TEST_SW": {
+    "x": 59,
+    "y": 743
+  },
+  "COCKKPIT_LIGHT_MODE_SW": {
+    "x": 337,
+    "y": 739
+  },
+  "WARN_CAUTION_DIMMER": {
+    "x": 155,
+    "y": 742
+  },
+  "CLIP_APU_ACC_LT": {
+    "x": 306,
+    "y": 687
+  },
+  "CLIP_BATT_SW_LT": {
+    "x": 384,
+    "y": 688
+  },
+  "CLIP_GEN_TIE_LT": {
+    "x": 309,
+    "y": 717
+  },
+  "CLIP_FCES_LT": {
+    "x": 309,
+    "y": 745
+  },
+  "CLIP_R_GEN_LT": {
+    "x": 311,
+    "y": 773
+  },
+  "CLIP_L_GEN_LT": {
+    "x": 233,
+    "y": 774
+  },
+  "CLIP_FUEL_LO_LT": {
+    "x": 226,
+    "y": 745
+  },
+  "CLIP_FCS_HOT_LT": {
+    "x": 237,
+    "y": 717
+  },
+  "CLIP_CK_SEAT_LT": {
+    "x": 238,
+    "y": 689
+  },
+  "CLIP_SPARE_CTN1_LT": {
+    "x": 380,
+    "y": 720
+  },
+  "CLIP_SPARE_CTN2_LT": {
+    "x": 381,
+    "y": 747
+  },
+  "CLIP_SPARE_CTN3_LT": {
+    "x": 383,
+    "y": 774
+  },
+  "HOOK_LEVER": {
+    "x": 269,
+    "y": 312
+  },
+  "ARRESTING_HOOK_LT": {
+    "x": 261,
+    "y": 152
+  },
+  "HYD_IND_LEFT": {
+    "x": 38,
+    "y": 669,
+    "w": 113,
+    "h": 121
+  },
+  "HYD_IND_RIGHT": {
+    "x": 33,
+    "y": 671,
+    "w": 118,
+    "h": 114
+  },
+  "WING_FOLD_ROTATE": {
+    "x": 408,
+    "y": 592
+  },
+  "WING_FOLD_PULL": {
+    "x": 387,
+    "y": 587
+  },
+  "AV_COOL_SW": {
+    "x": 539,
+    "y": 753
+  },
+  "RADALT_TEST_SW": {
+    "x": 191,
+    "y": 617
+  },
+  "RADALT_OFF_FLAG": {
+    "x": 104,
+    "y": 570,
+    "w": 40,
+    "h": 24
+  },
+  "RADALT_GREEN_LAMP": {
+    "x": 149,
+    "y": 545
+  },
+  "LOW_ALT_WARN_LT": {
+    "x": 95,
+    "y": 541
+  },
+  "RADALT_ALT_PTR": {
+    "x": 59,
+    "y": 463,
+    "w": 120,
+    "h": 24
+  },
+  "RADALT_HEIGHT": {
+    "x": 68,
+    "y": 503,
+    "w": 120,
+    "h": 24
+  },
+  "RADALT_MIN_HEIGHT_PTR": {
+    "x": 90,
+    "y": 563,
+    "w": 120,
+    "h": 24
+  },
+  "SEL_JETT_BTN": {
+    "x": 487,
+    "y": 568
+  },
+  "SEL_JETT_KNOB": {
+    "x": 491,
+    "y": 608
+  },
+  "LDG_TAXI_SW": {
+    "x": 238,
+    "y": 669
+  },
+  "LAUNCH_BAR_SW": {
+    "x": 242,
+    "y": 535
+  },
+  "HYD_IND_BRAKE": {
+    "x": 282,
+    "y": 726,
+    "w": 106,
+    "h": 84
+  },
+  "HOOK_BYPASS_SW": {
+    "x": 193,
+    "y": 809
+  },
+  "FLAP_SW": {
+    "x": 348,
+    "y": 532
+  },
+  "ANTI_SKID_SW": {
+    "x": 343,
+    "y": 650
+  },
+  "MC_READY": {
+    "x": 106,
+    "y": 112
+  },
+  "MC_DISCH": {
+    "x": 104,
+    "y": 134
+  },
+  "MASTER_MODE_AG_LT": {
+    "x": 95,
+    "y": 258
+  },
+  "MASTER_MODE_AG": {
+    "x": 67,
+    "y": 260
+  },
+  "MASTER_MODE_AA_LT": {
+    "x": 91,
+    "y": 228
+  },
+  "MASTER_MODE_AA": {
+    "x": 69,
+    "y": 231
+  },
+  "MASTER_ARM_SW": {
+    "x": 105,
+    "y": 317
+  },
+  "EMER_JETT_BTN": {
+    "x": 70,
+    "y": 466
+  },
+  "IFEI_UP_BTN": {
+    "x": 429,
+    "y": 152
+  },
+  "IFEI_ZONE_BTN": {
+    "x": 436,
+    "y": 244
+  },
+  "IFEI_QTY_BTN": {
+    "x": 433,
+    "y": 106
+  },
+  "IFEI_MODE_BTN": {
+    "x": 438,
+    "y": 64
+  },
+  "IFEI_ET_BTN": {
+    "x": 437,
+    "y": 290
+  },
+  "IFEI_DWN_BTN": {
+    "x": 437,
+    "y": 202
+  },
+  "IFEI_FF_L": {
+    "x": 207,
+    "y": 131,
+    "w": 55,
+    "h": 18
+  },
+  "IFEI_FF_R": {
+    "x": 324,
+    "y": 128,
+    "w": 52,
+    "h": 25
+  },
+  "IFEI_BINGO": {
+    "x": 509,
+    "y": 170,
+    "w": 83,
+    "h": 19
+  },
+  "IFEI_OIL_PRESS_L": {
+    "x": 224,
+    "y": 269,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_OIL_PRESS_R": {
+    "x": 320,
+    "y": 268,
+    "w": 47,
+    "h": 20
+  },
+  "IFEI_TEMP_L": {
+    "x": 207,
+    "y": 98,
+    "w": 56,
+    "h": 23
+  },
+  "IFEI_TEMP_R": {
+    "x": 323,
+    "y": 97,
+    "w": 58,
+    "h": 25
+  },
+  "IFEI_RPM_L": {
+    "x": 218,
+    "y": 64,
+    "w": 46,
+    "h": 23
+  },
+  "IFEI_RPM_R": {
+    "x": 321,
+    "y": 64,
+    "w": 45,
+    "h": 21
+  },
+  "IFEI_FUEL_UP": {
+    "x": 488,
+    "y": 64,
+    "w": 120,
+    "h": 24
+  },
+  "IFEI_FUEL_DOWN": {
+    "x": 489,
+    "y": 105,
+    "w": 120,
+    "h": 24
+  },
+  "IFEI_FF_TEXTURE": {
+    "x": 270,
+    "y": 130,
+    "w": 40,
+    "h": 23
+  },
+  "IFEI_L0_TEXTURE": {
+    "x": 246,
+    "y": 170,
+    "w": 40,
+    "h": 21
+  },
+  "IFEI_L100_TEXTURE": {
+    "x": 205,
+    "y": 237,
+    "w": 40,
+    "h": 18
+  },
+  "IFEI_L50_TEXTURE": {
+    "x": 244,
+    "y": 210,
+    "w": 40,
+    "h": 19
+  },
+  "IFEI_OIL_TEXTURE": {
+    "x": 270,
+    "y": 269,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_TEMP_TEXTURE": {
+    "x": 272,
+    "y": 100,
+    "w": 40,
+    "h": 20
+  },
+  "IFEI_Z_TEXTURE": {
+    "x": 594,
+    "y": 243,
+    "w": 40,
+    "h": 17
+  },
+  "IFEI_CLOCK_H": {
+    "x": 498,
+    "y": 238,
+    "w": 40,
+    "h": 15
+  },
+  "IFEI_R100_TEXTURE": {
+    "x": 344,
+    "y": 241,
+    "w": 40,
+    "h": 18
+  },
+  "IFEI_R50_TEXTURE": {
+    "x": 291,
+    "y": 212,
+    "w": 40,
+    "h": 16
+  },
+  "IFEI_RPOINTER_TEXTURE": {
+    "x": 292,
+    "y": 172,
+    "w": 40,
+    "h": 17
+  },
+  "IFEI_LPOINTER_TEXTURE": {
+    "x": 216,
+    "y": 170,
+    "w": 40,
+    "h": 19
+  },
+  "IFEI_LSCALE_TEXTURE": {
+    "x": 208,
+    "y": 195,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_RPM_TEXTURE": {
+    "x": 273,
+    "y": 65,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_RSCALE_TEXTURE": {
+    "x": 339,
+    "y": 198,
+    "w": 40,
+    "h": 17
+  },
+  "IFEI_CLOCK_M": {
+    "x": 521,
+    "y": 238,
+    "w": 40,
+    "h": 15
+  },
+  "IFEI_CLOCK_S": {
+    "x": 557,
+    "y": 239,
+    "w": 40,
+    "h": 14
+  },
+  "IFEI_TIMER_H": {
+    "x": 492,
+    "y": 273,
+    "w": 40,
+    "h": 15
+  },
+  "IFEI_TIMER_M": {
+    "x": 516,
+    "y": 274,
+    "w": 40,
+    "h": 16
+  },
+  "IFEI_TIMER_S": {
+    "x": 552,
+    "y": 276,
+    "w": 40,
+    "h": 16
+  },
+  "IFEI_CODES": {
+    "x": 184,
+    "y": 316,
+    "w": 40,
+    "h": 21
+  },
+  "IFEI_DD_1": {
+    "x": 229,
+    "y": 316,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_DD_2": {
+    "x": 270,
+    "y": 317,
+    "w": 40,
+    "h": 16
+  },
+  "IFEI_DD_3": {
+    "x": 304,
+    "y": 317,
+    "w": 40,
+    "h": 23
+  },
+  "IFEI_DD_4": {
+    "x": 345,
+    "y": 316,
+    "w": 40,
+    "h": 23
+  },
+  "IFEI_TIME_SET_MODE": {
+    "x": 489,
+    "y": 311,
+    "w": 40,
+    "h": 22
+  },
+  "IFEI_SP": {
+    "x": 536,
+    "y": 310,
+    "w": 40,
+    "h": 24
+  },
+  "SJ_CTR": {
+    "x": 75,
+    "y": 118
+  },
+  "SJ_CTR_LT": {
+    "x": 75,
+    "y": 137
+  },
+  "SJ_LI": {
+    "x": 52,
+    "y": 180
+  },
+  "SJ_LI_LT": {
+    "x": 50,
+    "y": 194
+  },
+  "SJ_LO": {
+    "x": 46,
+    "y": 230
+  },
+  "SJ_LO_LT": {
+    "x": 47,
+    "y": 251
+  },
+  "SJ_RI": {
+    "x": 105,
+    "y": 174
+  },
+  "SJ_RI_LT": {
+    "x": 104,
+    "y": 195
+  },
+  "SJ_RO": {
+    "x": 105,
+    "y": 227
+  },
+  "SJ_RO_LT": {
+    "x": 107,
+    "y": 256
+  },
+  "FLP_LG_FLAPS_LT": {
+    "x": 58,
+    "y": 404
+  },
+  "FLP_LG_RIGHT_GEAR_LT": {
+    "x": 107,
+    "y": 333
+  },
+  "FLP_LG_NOSE_GEAR_LT": {
+    "x": 76,
+    "y": 293
+  },
+  "FLP_LG_LEFT_GEAR_LT": {
+    "x": 49,
+    "y": 325
+  },
+  "FLP_LG_HALF_FLAPS_LT": {
+    "x": 39,
+    "y": 369
+  },
+  "FLP_LG_FULL_FLAPS_LT": {
+    "x": 110,
+    "y": 369
+  },
+  "IFEI": {
+    "x": 213,
+    "y": 395
+  },
+  "MODE_SELECTOR_SW": {
+    "x": 546,
+    "y": 407
+  },
+  "SELECT_HMD_LDDI_RDDI": {
+    "x": 299,
+    "y": 406
+  },
+  "SELECT_HUD_LDDI_RDDI": {
+    "x": 410,
+    "y": 405
+  },
+  "MASTER_CAUTION_RESET_SW": {
+    "x": 203,
+    "y": 115
+  },
+  "MASTER_CAUTION_LT": {
+    "x": 207,
+    "y": 125
+  },
+  "LH_ADV_REC": {
+    "x": 328,
+    "y": 146
+  },
+  "LH_ADV_NO_GO": {
+    "x": 326,
+    "y": 69
+  },
+  "LH_ADV_ASPJ_OH": {
+    "x": 328,
+    "y": 196
+  },
+  "LH_ADV_R_BLEED": {
+    "x": 325,
+    "y": 98
+  },
+  "LH_ADV_L_BLEED": {
+    "x": 278,
+    "y": 97
+  },
+  "LH_ADV_GO": {
+    "x": 278,
+    "y": 71
+  },
+  "LH_ADV_L_BAR_RED": {
+    "x": 277,
+    "y": 146
+  },
+  "LH_ADV_L_BAR_GREEN": {
+    "x": 278,
+    "y": 170
+  },
+  "LH_ADV_XMIT": {
+    "x": 328,
+    "y": 170
+  },
+  "LH_ADV_STBY": {
+    "x": 327,
+    "y": 121
+  },
+  "LH_ADV_SPD_BRK": {
+    "x": 276,
+    "y": 122
+  },
+  "FIRE_LEFT_LT": {
+    "x": 123,
+    "y": 116
+  },
+  "LEFT_FIRE_BTN": {
+    "x": 124,
+    "y": 99
+  },
+  "LEFT_FIRE_BTN_COVER": {
+    "x": 130,
+    "y": 130
+  },
+  "RH_ADV_AAA": {
+    "x": 92,
+    "y": 174
+  },
+  "RH_ADV_AI": {
+    "x": 43,
+    "y": 173
+  },
+  "RH_ADV_SPARE_RH1": {
+    "x": 45,
+    "y": 99
+  },
+  "RH_ADV_SPARE_RH2": {
+    "x": 97,
+    "y": 99
+  },
+  "RH_ADV_SPARE_RH3": {
+    "x": 44,
+    "y": 123
+  },
+  "RH_ADV_SPARE_RH4": {
+    "x": 95,
+    "y": 124
+  },
+  "RH_ADV_SPARE_RH5": {
+    "x": 43,
+    "y": 148
+  },
+  "RH_ADV_SAM": {
+    "x": 92,
+    "y": 149
+  },
+  "RH_ADV_DISP": {
+    "x": 98,
+    "y": 77
+  },
+  "RH_ADV_RCDR_ON": {
+    "x": 45,
+    "y": 77
+  },
+  "RH_ADV_CW": {
+    "x": 43,
+    "y": 197
+  },
+  "RIGHT_FIRE_BTN": {
+    "x": 243,
+    "y": 117
+  },
+  "RIGHT_FIRE_BTN_COVER": {
+    "x": 243,
+    "y": 116
+  },
+  "FIRE_RIGHT_LT": {
+    "x": 242,
+    "y": 117
+  },
+  "FIRE_APU_LT": {
+    "x": 165,
+    "y": 111
+  },
+  "APU_FIRE_BTN": {
+    "x": 165,
+    "y": 130
+  },
+  "FIRE_EXT_BTN": {
+    "x": 73,
+    "y": 172
+  },
+  "VSI": {
+    "x": 421,
+    "y": 320,
+    "w": 120,
+    "h": 109
+  },
+  "SAI_TEST_BTN": {
+    "x": 92,
+    "y": 243
+  },
+  "SAI_SLIP_BALL": {
+    "x": 131,
+    "y": 233,
+    "w": 65,
+    "h": 21
+  },
+  "SAI_SET": {
+    "x": 85,
+    "y": 206,
+    "w": 120,
+    "h": 24
+  },
+  "SAI_RATE_OF_TURN": {
+    "x": 94,
+    "y": 189,
+    "w": 120,
+    "h": 24
+  },
+  "SAI_PITCH": {
+    "x": 100,
+    "y": 168,
+    "w": 120,
+    "h": 24
+  },
+  "SAI_MAN_PITCH_ADJ": {
+    "x": 94,
+    "y": 147,
+    "w": 120,
+    "h": 24
+  },
+  "SAI_CAGE": {
+    "x": 263,
+    "y": 242
+  },
+  "SAI_BANK": {
+    "x": 101,
+    "y": 134,
+    "w": 120,
+    "h": 24
+  },
+  "SAI_ATT_WARNING_FLAG": {
+    "x": 227,
+    "y": 102,
+    "w": 48,
+    "h": 39
+  },
+  "STBY_PRESS_ALT": {
+    "x": 227,
+    "y": 440
+  },
+  "STBY_ASI_AIRSPEED": {
+    "x": 48,
+    "y": 353,
+    "w": 120,
+    "h": 24
+  },
+  "STBY_ALT_10000_FT_CNT": {
+    "x": 239,
+    "y": 296,
+    "w": 120,
+    "h": 24
+  },
+  "STBY_ALT_1000_FT_CNT": {
+    "x": 239,
+    "y": 324,
+    "w": 120,
+    "h": 24
+  },
+  "STBY_ALT_100_FT_PTR": {
+    "x": 239,
+    "y": 350,
+    "w": 120,
+    "h": 24
+  },
+  "PRESSURE_ALT": {
+    "x": 390,
+    "y": 465,
+    "w": 120,
+    "h": 24
+  },
+  "RWR_RWR_INTESITY": {
+    "x": 511,
+    "y": 234
+  },
+  "SPIN_LT": {
+    "x": 36,
+    "y": 479
+  },
+  "SPIN_RECOVERY_COVER": {
+    "x": 119,
+    "y": 394
+  },
+  "SPIN_RECOVERY_SW": {
+    "x": 117,
+    "y": 445
+  },
+  "IR_COOL_SW": {
+    "x": 51,
+    "y": 180
+  },
+  "HMD_OFF_BRT": {
+    "x": 78,
+    "y": 264
+  },
+  "ECM_MODE_SW": {
+    "x": 286,
+    "y": 238
+  },
+  "CMSD_JET_SEL_BTN": {
+    "x": 111,
+    "y": 120
+  },
+  "CMSD_DISPENSE_SW": {
+    "x": 113,
+    "y": 295
+  },
+  "AUX_REL_SW": {
+    "x": 147,
+    "y": 483
+  },
+  "RUDDER_PEDAL_ADJUST": {
+    "x": 51,
+    "y": 479
+  },
+  "RWR_BIT_LT": {
+    "x": 232,
+    "y": 60
+  },
+  "RWR_BIT_BTN": {
+    "x": 233,
+    "y": 61
+  },
+  "RWR_FAIL_LT": {
+    "x": 227,
+    "y": 36
+  },
+  "RWR_POWER_BTN": {
+    "x": 458,
+    "y": 60
+  },
+  "RWR_DIS_TYPE_SW": {
+    "x": 227,
+    "y": 124
+  },
+  "RWR_LIMIT_LT": {
+    "x": 396,
+    "y": 62
+  },
+  "RWR_OFFSET_LT": {
+    "x": 290,
+    "y": 56
+  },
+  "RWR_OFFSET_BTN": {
+    "x": 286,
+    "y": 40
+  },
+  "RWR_SPECIAL_BTN": {
+    "x": 344,
+    "y": 65
+  },
+  "RWR_SPECIAL_EN_LT": {
+    "x": 344,
+    "y": 55
+  },
+  "RWR_SPECIAL_LT": {
+    "x": 345,
+    "y": 63
+  },
+  "RWR_DMR_CTRL": {
+    "x": 509,
+    "y": 111
+  },
+  "RWR_DISPLAY_LT": {
+    "x": 393,
+    "y": 38
+  },
+  "RWR_ENABLE_LT": {
+    "x": 455,
+    "y": 37
+  },
+  "RWR_LOWER_LT": {
+    "x": 390,
+    "y": 137
+  },
+  "RWR_DISPLAY_BTN": {
+    "x": 432,
+    "y": 180
+  },
+  "STBY_PRESS_SET_0": {
+    "x": 241,
+    "y": 376,
+    "w": 120,
+    "h": 24
+  },
+  "STBY_PRESS_SET_1": {
+    "x": 238,
+    "y": 400,
+    "w": 120,
+    "h": 24
+  },
+  "STBY_PRESS_SET_2": {
+    "x": 245,
+    "y": 428,
+    "w": 120,
+    "h": 24
+  },
+  "AMPCD_BRT_CTL": {
+    "x": 270,
+    "y": 77
+  },
+  "AMPCD_CONT_SW": {
+    "x": 490,
+    "y": 530
+  },
+  "AMPCD_GAIN_SW": {
+    "x": 54,
+    "y": 534
+  },
+  "AMPCD_NIGHT_DAY": {
+    "x": 109,
+    "y": 104
+  },
+  "AMPCD_SYM_SW": {
+    "x": 437,
+    "y": 107
+  },
+  "AMPCD_PB_01": {
+    "x": 55,
+    "y": 238
+  },
+  "AMPCD_PB_02": {
+    "x": 54,
+    "y": 291
+  },
+  "AMPCD_PB_03": {
+    "x": 57,
+    "y": 348
+  },
+  "AMPCD_PB_04": {
+    "x": 57,
+    "y": 406
+  },
+  "AMPCD_PB_05": {
+    "x": 54,
+    "y": 459
+  },
+  "AMPCD_PB_06": {
+    "x": 163,
+    "y": 560
+  },
+  "AMPCD_PB_07": {
+    "x": 218,
+    "y": 561
+  },
+  "AMPCD_PB_08": {
+    "x": 275,
+    "y": 559
+  },
+  "AMPCD_PB_09": {
+    "x": 329,
+    "y": 560
+  },
+  "AMPCD_PB_10": {
+    "x": 387,
+    "y": 559
+  },
+  "AMPCD_PB_11": {
+    "x": 493,
+    "y": 459
+  },
+  "AMPCD_PB_12": {
+    "x": 493,
+    "y": 403
+  },
+  "AMPCD_PB_13": {
+    "x": 492,
+    "y": 348
+  },
+  "AMPCD_PB_14": {
+    "x": 493,
+    "y": 292
+  },
+  "AMPCD_PB_15": {
+    "x": 492,
+    "y": 234
+  },
+  "AMPCD_PB_16": {
+    "x": 388,
+    "y": 124
+  },
+  "AMPCD_PB_17": {
+    "x": 331,
+    "y": 121
+  },
+  "AMPCD_PB_18": {
+    "x": 271,
+    "y": 122
+  },
+  "AMPCD_PB_19": {
+    "x": 217,
+    "y": 122
+  },
+  "AMPCD_PB_20": {
+    "x": 161,
+    "y": 123
+  },
+  "LEFT_DDI_CRS_SW": {
+    "x": 508,
+    "y": 72
+  },
+  "LEFT_DDI_HDG_SW": {
+    "x": 41,
+    "y": 73
+  },
+  "LEFT_DDI_BRT_CTL": {
+    "x": 19,
+    "y": 488
+  },
+  "LEFT_DDI_BRT_SELECT": {
+    "x": 235,
+    "y": 33
+  },
+  "LEFT_DDI_CONT_CTL": {
+    "x": 449,
+    "y": 490
+  },
+  "RIGHT_DDI_BRT_CTL": {
+    "x": 15,
+    "y": 490
+  },
+  "RIGHT_DDI_CONT_CTL": {
+    "x": 450,
+    "y": 491
+  },
+  "RIGHT_DDI_BRT_SELECT": {
+    "x": 234,
+    "y": 34
+  },
+  "HUD_VIDEO_BIT": {
+    "x": 468,
+    "y": 74
+  },
+  "UFC_COMM1_CHANNEL_SELECT": {
+    "x": 31,
+    "y": 502,
+    "w": 44,
+    "h": 48
+  },
+  "UFC_COMM2_CHANNEL_SELECT": {
+    "x": 463,
+    "y": 508,
+    "w": 42,
+    "h": 36
+  },
+  "IFEI_BINGO_TEXTURE": {
+    "x": 533,
+    "y": 145,
+    "w": 40,
+    "h": 18
+  }
+}

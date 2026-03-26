@@ -1,0 +1,100 @@
+{
+  "_comment": "Maps each panel image filename to the DCS-BIOS JSON categories it contains. Edit as needed.",
+  "UFC.jpg": [
+    "Comms frequency",
+    "HUD Control Panel",
+    "HUD Video Bit Panel",
+    "Up Front Controller (UFC)"
+  ],
+  "IFEI.jpg": [
+    "Flaps, Landing Gear, Stores Indicator Panel",
+    "HUD Video Record Panel",
+    "Integrated Fuel/Engine Indicator (IFEI)",
+    "Station Jettison Select"
+  ],
+  "DDI left.jpg": [
+    "Left DDI"
+  ],
+  "DDI right.jpg": [
+    "Right DDI"
+  ],
+  "MPCD.jpg": [
+    "AMPCD",
+    "Heading and Course Set Switches"
+  ],
+  "master arm.jpg": [
+    "Emergency Jettison Button",
+    "Fire Systems",
+    "Master Arm Panel"
+  ],
+  "AOA, LOCK, HUD.jpg": [
+    "Angle of Attack Indexer Lights",
+    "Lock Shoot Lights"
+  ],
+  "annunciators left.jpeg": [
+    "LH Advisory Panel",
+    "Left Engine Fire Warning Extinguisher Light",
+    "Master Caution Light"
+  ],
+  "annunciators right.jpg": [
+    " Right Engine Fire Warning Extinguisher Light",
+    "APU Fire Warning Extinguisher Light",
+    "RH Advisory Panel"
+  ],
+  "KY-58.jpg": [
+    "KY-58 Control"
+  ],
+  "standby instruments.jpg": [
+    "Standby Airspeed Indicator",
+    "Standby Altimeter",
+    "Standby Attitude Reference Indicator",
+    "Standby Rate of Climb Indicator"
+  ],
+  "throttle.jpg": [
+    "Fire Test Panel",
+    "Throttle Quadrant"
+  ],
+  "IR COOL.jpg": [
+    "Map Gain/Spin Recovery Panel"
+  ],
+  "left front.jpg": [
+    "Emergency and Parking Brake Handle",
+    "Landing Gear Handle and Warning Tone Silence",
+    "Select Jettison Button"
+  ],
+  "left middle.jpg": [
+    "Exterior Lights Panel",
+    "Generator Tie Control Switch",
+    "Ground Power Panel"
+  ],
+  "left rear.jpg": [
+    "Antenna Select Panel",
+    "Auxiliary Power Unit Panel",
+    "Communication Panel",
+    "Flight Control System Panel",
+    "Fuel Panel",
+    "Mission Computer and Hydraulic Isolate Panel"
+  ],
+  "right middle.jpg": [
+    "Defog Panel",
+    "Electrical Power Panel",
+    "Environment Control System Panel",
+    "Interior Lights Panel",
+    "Sensor Panel"
+  ],
+  "RIGHT FRONT.jpg": [
+    "Arresting Hook Handle and Light",
+    "Caution Light Panel",
+    "Flight Computer Cool Switch",
+    "HYD 1 and HYD Pressure Indicator",
+    "Radar Altimeter",
+    "Wing Fold Switch"
+  ],
+  "_excluded": [],
+  "center lower.jpg": [
+    "Cockpit Altimeter",
+    "Dispenser/EMC Panel",
+    "RWR Control Indicator",
+    "Rudder Pedal Adjust Level"
+  ]
+}

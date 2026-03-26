@@ -1,0 +1,15 @@
+{
+  "_comment": [
+    "cockpit_image: path to the full cockpit background image, relative to the project root.",
+    "  Set this to 'panel pics/YOUR_FILENAME.jpg' when you add a new main image.",
+    "  If null, the app auto-detects: it looks for the largest image in 'panel pics/'",
+    "  that is NOT listed as a panel key in panel_categories.json.",
+    "panels_dir: folder containing all panel cutout images (relative to project root).",
+    "bios_file:  DCS-BIOS JSON definition file (relative to project root).",
+    "aircraft:   Display name only."
+  ],
+  "cockpit_image": "panel pics/NeoEngress FA-18C Full Layout - 4220x5200 white.jpg",
+  "panels_dir": "panel pics",
+  "bios_file": "bios_defs/FA-18C_hornet.json",
+  "aircraft": "FA-18C Hornet"
+}
