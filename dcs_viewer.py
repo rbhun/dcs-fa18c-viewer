@@ -643,26 +643,31 @@ def open_and_read_via_pyusb(
 
 # ── DCS-BIOS aircraft definitions ────────────────────────────────────────────
 
+_SKUNKWORKS_BASE = (
+    "https://raw.githubusercontent.com/DCS-Skunkworks/dcs-bios/main/"
+    "Scripts/DCS-BIOS/lib/modules/aircraft_modules/"
+)
+
 BIOS_MODULES: "dict[str, dict]" = {
     "fa18c": {
         "name":     "F/A-18C Hornet",
-        "url":      "https://raw.githubusercontent.com/dcs-bios/module-fa-18c-hornet/master/FA-18C_hornet.json",
+        "lua_url":  f"{_SKUNKWORKS_BASE}FA-18C_hornet.lua",
         "filename": "FA-18C_hornet.json",
     },
     "a10c": {
         "name":     "A-10C Warthog",
-        "url":      "https://raw.githubusercontent.com/dcs-bios/module-a-10c/master/A-10C.json",
+        "lua_url":  f"{_SKUNKWORKS_BASE}A-10C.lua",
         "filename": "A-10C.json",
     },
     "f16c": {
         "name":     "F-16C Viper",
-        "url":      "https://raw.githubusercontent.com/dcs-bios/module-f-16c-50/master/F-16C_50.json",
+        "lua_url":  f"{_SKUNKWORKS_BASE}F-16C_50.lua",
         "filename": "F-16C_50.json",
     },
-    "f14b": {
-        "name":     "F-14B Tomcat",
-        "url":      "https://raw.githubusercontent.com/dcs-bios/module-f-14b/master/F-14B.json",
-        "filename": "F-14B.json",
+    "f14": {
+        "name":     "F-14 Tomcat",
+        "lua_url":  f"{_SKUNKWORKS_BASE}F-14.lua",
+        "filename": "F-14.json",
     },
 }
 
@@ -704,8 +709,8 @@ class BiosDefs:
     """
     Loads a DCS-BIOS aircraft module JSON (downloaded + cached from GitHub).
 
-    Provides lookup by control identifier so we can annotate incoming serial
-    events with human-readable descriptions and drive outputs via BiosWriter.
+    Source: https://github.com/DCS-Skunkworks/dcs-bios
+    Lua definitions are downloaded and converted to JSON automatically.
     """
 
     def __init__(self, aircraft_key: str = "fa18c", silent: bool = False) -> None:
@@ -719,30 +724,56 @@ class BiosDefs:
 
         if not cache_path.exists():
             _BIOS_CACHE_DIR.mkdir(exist_ok=True)
-            if not silent:
-                print(colorize(
-                    f"  ↓  Downloading {mod['name']} definitions from GitHub…",
-                    ANSI_DIM,
-                ), end="", flush=True)
-            try:
-                data = _urlopen_bytes(mod["url"])
-                cache_path.write_bytes(data)
+            lua_url = mod.get("lua_url")
+            if lua_url:
+                self._download_and_convert(mod, cache_path, silent)
+            else:
                 if not silent:
-                    print(colorize(" done.", ANSI_DIM))
-            except Exception as exc:
-                if not silent:
-                    print(colorize(f" failed: {exc}", ANSI_RED))
+                    print(colorize(f"  ✖  No download URL for {mod['name']}", ANSI_RED))
                 return
 
         try:
             with open(cache_path, encoding="utf-8") as f:
                 raw = json.load(f)
-            # JSON structure: { "Category Name": { "IDENTIFIER": {...}, ... }, ... }
             for _category, controls in raw.items():
                 for ident, ctrl in controls.items():
                     self._index[ident] = ctrl
         except Exception as exc:
             print(colorize(f"  ✖  Failed to parse {cache_path.name}: {exc}", ANSI_RED))
+
+    @staticmethod
+    def _download_and_convert(
+        mod: dict, cache_path: Path, silent: bool
+    ) -> None:
+        from lua_to_json import lua_to_json
+
+        if not silent:
+            print(colorize(
+                f"  ↓  Downloading {mod['name']} Lua from DCS-Skunkworks…",
+                ANSI_DIM,
+            ), end="", flush=True)
+        try:
+            lua_bytes = _urlopen_bytes(mod["lua_url"])
+            lua_text = lua_bytes.decode("utf-8", errors="replace")
+        except Exception as exc:
+            if not silent:
+                print(colorize(f" download failed: {exc}", ANSI_RED))
+            return
+
+        if not silent:
+            print(colorize(" converting…", ANSI_DIM), end="", flush=True)
+        try:
+            json_dict = lua_to_json(lua_text)
+            cache_path.write_text(
+                json.dumps(json_dict, indent=2, ensure_ascii=False) + "\n",
+                encoding="utf-8",
+            )
+            n = sum(len(v) for v in json_dict.values())
+            if not silent:
+                print(colorize(f" done ({n} controls).", ANSI_DIM))
+        except Exception as exc:
+            if not silent:
+                print(colorize(f" conversion failed: {exc}", ANSI_RED))
 
     def __bool__(self) -> bool:
         return bool(self._index)

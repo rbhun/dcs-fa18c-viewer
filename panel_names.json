@@ -4,5 +4,12 @@
   "1-1.2": "left front LIP",
   "1-1.4.4.2": "RIP panel",
   "1-1.4.4.1": "C7 panel center low right",
-  "1-1.4.1": "IFEI panel"
+  "1-1.4.1": "IFEI panel",
+  "0-1.4.1": "IFEI",
+  "0-1.4.2": "RWR Arduino",
+  "0-1.4.4.2": "Tek RIP",
+  "0-1.4.4.1": "Tek RWR",
+  "0-1.4.3": "Tek F18 ECM",
+  "0-1.2": "Tek LIP",
+  "0-1.3": "Tek right display"
 }
